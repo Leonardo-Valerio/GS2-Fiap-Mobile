@@ -77,7 +77,7 @@ Gerenciador de pacotes (npm ou yarn).
 
 ### Passo a Passo
 #### Clone o repositório:
-git clone [https://github.com/SEU-USUARIO/EcoHealthManager.git](https://github.com/SEU-USUARIO/EcoHealthManager.git)
+git clone [https://github.com/Leonardo-Valerio/GS2-Fiap-Mobile.git](https://github.com/Leonardo-Valerio/GS2-Fiap-Mobile.git)
 cd EcoHealthManager
 #### Instale as dependências: 
 npm install
@@ -89,3 +89,4 @@ npx expo start
 # 👥 Integrantes do Grupo
 Joel Barros - RM550378
 Leonardo Valério - RM550988
+

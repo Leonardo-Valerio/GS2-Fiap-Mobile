@@ -90,3 +90,6 @@ npx expo start
 Joel Barros - RM550378
 Leonardo Valério - RM550988
 
+# Vídeo de apresentação da GS
+[https://www.youtube.com/watch?v=rhTAIFuPEX0](https://www.youtube.com/watch?v=rhTAIFuPEX0)
+
